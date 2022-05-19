@@ -62,6 +62,7 @@ let rec create_network net_cfg =
 
 
 (* TODO: make something to print the network to see if any function above is messed up *)
+(* TODO: seperate in multiple files *)
 let print_nn net =
 
 
