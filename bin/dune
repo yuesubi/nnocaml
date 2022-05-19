@@ -1,0 +1,4 @@
+(executable
+ (public_name nnocaml)
+ (name main)
+ (libraries nnocaml))
